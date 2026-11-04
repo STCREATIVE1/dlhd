@@ -4327,11 +4327,6 @@
     <display-name lang="en">beIN_SPORTS_XTRA1_Digital_Mono_EN</display-name>
     <url>http://www.bein.com_sports_en</url>
   </channel>
-  <programme start="20261103223000 +0100" stop="20261104010000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
-    <title lang="en">Bodo/Glimt vs Lille</title>
-    <sub-title lang="en">UEFA Champions League MD4</sub-title>
-    <category lang="en">UEFA Champions League</category>
-  </programme>
   <programme start="20261104010000 +0100" stop="20261104020000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premium Sporting Events</title>
     <sub-title lang="en">November</sub-title>
@@ -4387,7 +4382,22 @@
     <sub-title lang="en">November</sub-title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20261104120000 +0100" stop="20261104133000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+  <programme start="20261104120000 +0100" stop="20261104130000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premium Sporting Events</title>
+    <sub-title lang="en">November</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20261104130000 +0100" stop="20261104131000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premium Sporting Events</title>
+    <sub-title lang="en">November</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20261104131000 +0100" stop="20261104132000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premium Sporting Events</title>
+    <sub-title lang="en">November</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20261104132000 +0100" stop="20261104133000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premium Sporting Events</title>
     <sub-title lang="en">November</sub-title>
     <category lang="en">Sports General</category>
@@ -4402,32 +4412,37 @@
     <sub-title lang="en">November</sub-title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20261104140000 +0100" stop="20261104155500 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
-    <title lang="en">Beach Volleyball</title>
-    <sub-title lang="en">2026 Youth Olympic Games – Dakar</sub-title>
+  <programme start="20261104140000 +0100" stop="20261104150000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+    <title lang="en">Switzerland vs China</title>
+    <sub-title lang="en">Beach Volleyball Bronze Medal</sub-title>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261104155500 +0100" stop="20261104170000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
-    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premium Sporting Events</title>
-    <sub-title lang="en">November</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20261104170000 +0100" stop="20261104191000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
-    <title lang="en">Beach Volleyball</title>
-    <sub-title lang="en">2026 Youth Olympic Games – Dakar</sub-title>
+  <programme start="20261104150000 +0100" stop="20261104170000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+    <title lang="en">Brazil vs Australia</title>
+    <sub-title lang="en">Beach Volleyball Bronze Medal</sub-title>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261104191000 +0100" stop="20261104201000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+  <programme start="20261104170000 +0100" stop="20261104180000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+    <title lang="en">Italy vs Netherlands</title>
+    <sub-title lang="en">Beach Volleyball Gold Medal</sub-title>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20261104180000 +0100" stop="20261104185000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+    <title lang="en">Germany vs Austria</title>
+    <sub-title lang="en">Beach Volleyball Gold Medal</sub-title>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20261104185000 +0100" stop="20261104210000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+    <title lang="en">Kuwait SC vs Nasaf</title>
+    <sub-title lang="en">AFC Champions League Two 2026/2027</sub-title>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20261104210000 +0100" stop="20261104220000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premium Sporting Events</title>
     <sub-title lang="en">November</sub-title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20261104201000 +0100" stop="20261104211000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
-    <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premium Sporting Events</title>
-    <sub-title lang="en">November</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20261104211000 +0100" stop="20261104221000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+  <programme start="20261104220000 +0100" stop="20261104221000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premium Sporting Events</title>
     <sub-title lang="en">November</sub-title>
     <category lang="en">Sports General</category>
@@ -4438,12 +4453,12 @@
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20261104223000 +0100" stop="20261105010000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
-    <title lang="en">Viking vs Sabah</title>
+    <title lang="en">PSV Eindhoven vs Club Brugge</title>
     <sub-title lang="en">UEFA Champions League MD4</sub-title>
     <category lang="en">UEFA Champions League</category>
   </programme>
   <programme start="20261105223000 +0100" stop="20261106010000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
-    <title lang="en">Viking vs Sabah</title>
+    <title lang="en">PSV Eindhoven vs Club Brugge</title>
     <sub-title lang="en">UEFA Champions League MD4</sub-title>
     <category lang="en">UEFA Champions League</category>
   </programme>
@@ -4598,6 +4613,11 @@
     <category lang="en">UEFA Europa League</category>
   </programme>
   <programme start="20261106225000 +0100" stop="20261107010000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
+    <title lang="en">Sturm Graz vs NK Celje</title>
+    <sub-title lang="en">UEFA Europa League MD4</sub-title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20261107225000 +0100" stop="20261108010000 +0100" channel="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein">
     <title lang="en">Sturm Graz vs NK Celje</title>
     <sub-title lang="en">UEFA Europa League MD4</sub-title>
     <category lang="en">UEFA Europa League</category>
